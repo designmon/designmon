@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tortortormonitor
+- 👋 Hi, I’m @designmon
 - 👀 I’m interested in Product Design and Architecture
 - 🌱 I’m currently learning UX Design
 - 💞️ I’m looking to collaborate on UX Product Design projects
