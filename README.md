@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @designmon
-- 👀 I’m interested in Product Design and Architecture
-- 🌱 I’m currently learning UX Design
-- 💞️ I’m looking to collaborate on UX Product Design projects
-- 📫 How to reach me: 7monika.p@gmail.com
+- 👀 I’m a Product Design working at an early-stage ecology moonshot at Google X
+- 📫 How to reach me: designmon.paw@gmail.com
 
 <!---
 tortortormonitor/tortortormonitor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
